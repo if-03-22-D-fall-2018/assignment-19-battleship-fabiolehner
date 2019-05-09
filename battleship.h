@@ -56,5 +56,5 @@ bool shoot(int row, int col);
 *** is outside the field OutOfRange is returned.
 */
 CellContent get_my_guess(int row, int col);
-
+void SetWater(int row, int col);
 #endif
